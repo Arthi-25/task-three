@@ -1,0 +1,68 @@
+
+.x .y .z{
+    border: 2px solid rgb(44, 43, 48);
+    box-shadow: 10px 10px 10px;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+    margin-left: 410px;
+}
+
+input{
+    background-color: rgb(18, 160, 170);
+}
+
+button{
+    background-color: rgb(50, 62, 63);
+    border-radius: 5px;
+}
+
+.a{
+    padding: 20px;
+}
+
+.container1 .card {
+    border: 1px solid black;
+    border-radius: 30px;
+    box-shadow: 1px 1px 1px 1px slategrey;
+   padding: 25px;
+    height: 22rem;
+    width: 20rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+   
+
+}
+.container1 .card:hover{
+    background:linear-gradient(rgb(15, 211, 236),rgb(56, 56, 61));
+    box-shadow:inset 5px 5px 10px  rgba(0,0,0,.3),
+    inset 4px 4px 10px white;
+    font-weight: 300;
+    color:azure;
+transform:scale(1.1);
+transition:0.5s;
+
+
+}
+
+
+
+.container-fluid{
+    font-family:Barlow Condensed;
+    font-size: large;
+    font-weight:400;
+}
+.d {
+    
+    font-size:xx-large;
+    -webkit-text-fill-color: aliceblue;
+    text-align:justify;
+}
+.j{
+    -webkit-text-fill-color: aliceblue;
+}
+.j a:hover{
+    -webkit-text-fill-color: rgb(11, 202, 69);
+}
